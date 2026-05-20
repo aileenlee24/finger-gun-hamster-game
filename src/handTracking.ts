@@ -1,5 +1,3 @@
-import '@mediapipe/camera_utils'
-import '@mediapipe/hands'
 
 type GestureStatus = 'No hand' | 'Finger gun detected' | 'Shot fired'
 
